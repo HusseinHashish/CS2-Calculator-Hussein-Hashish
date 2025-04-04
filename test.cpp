@@ -8,7 +8,7 @@ int main() {
     cout << "5 - 3 = " << subtract(5, 3) << endl;
     cout << "5 * 3 = " << multiply(5, 3) << endl;
     cout << "5 / 3 = " << divide(5, 3) << endl;
-    cout << "5 / 0 = " << divide(5, 0) << endl;  
+
     cout << "Factorial of 5 = " << factorial(5) << endl;
     cout << "GCD of 48 and 18 = " << gcd(48, 18) << endl;
     cout << "LCM of 21 and 6 = " << lcm(21, 6) << endl;
@@ -18,5 +18,6 @@ int main() {
     }
     cout << endl;
 
+    cout << "5 / 0 = " << divide(5, 0) << endl; 
     return 0;
 }

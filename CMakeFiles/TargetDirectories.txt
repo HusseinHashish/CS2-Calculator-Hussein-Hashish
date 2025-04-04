@@ -1,0 +1,3 @@
+/home/husseinhashish/Desktop/Final assign 2/CS2-Calculator-HusseinHashish/CMakeFiles/rebuild_cache.dir
+/home/husseinhashish/Desktop/Final assign 2/CS2-Calculator-HusseinHashish/CMakeFiles/edit_cache.dir
+/home/husseinhashish/Desktop/Final assign 2/CS2-Calculator-HusseinHashish/CMakeFiles/CalculatorApp.dir
